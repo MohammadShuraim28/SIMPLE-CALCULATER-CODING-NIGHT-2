@@ -1,0 +1,1 @@
+console.log(coding for the simple calculater);
