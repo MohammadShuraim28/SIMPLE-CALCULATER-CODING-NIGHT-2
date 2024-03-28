@@ -1,6 +1,6 @@
 {
   "name": "ms28-calculater-coding",
-  "version": "1.0.1",
+  "version": "2.0.1",
   "description": "a simple calculator , note js and inquirer",
   "main": "index.js",
   "type": "module",
